@@ -16,13 +16,13 @@
     
 # Run:
 
--   To add Text Editor
+-   To Run Text Editor
 
     ```makefile
     $ python3 Text-Editor.py
     ```
 
-# Authors
+# Authors:
 
 **Nishant Badgujar (111903053)**
 
