@@ -7,6 +7,16 @@
 * Event & Exception Handling 
 * File Handling 
 
+Features:
+
+* Buttons to bold, italic and underline the text in the file.
+* Align the text at left, centre and right position of display window.
+* Functionalities to change font family, font color and font size of text.
+* To open new and existing file, save and save as and quite options inside file menu.
+* Copy, past, cut, clear all and find functions to implement edit functionalities.
+* View menu to hide and display tool and status bar at top and bottom respectively.
+* Color themes of default color as well as light plus, dark, red and light colors.
+
 # Installation:
 
 1. Clone Respository
