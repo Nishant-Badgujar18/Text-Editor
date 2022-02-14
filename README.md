@@ -1,5 +1,7 @@
 # Text-Editor
 
+Simple Text Editor Application using Python Tkinter package.
+
 # Concepts Used:
 
 * Python Tkinter package for GUI
