@@ -7,7 +7,7 @@
 * Event & Exception Handling 
 * File Handling 
 
-Features:
+# Features:
 
 * Buttons to bold, italic and underline the text in the file.
 * Align the text at left, centre and right position of display window.
