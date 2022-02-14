@@ -1,5 +1,12 @@
 # Text-Editor
 
+# Concepts Used:
+
+* Python Tkinter package for GUI
+* Function Overloading in python
+* Event & Exception Handling 
+* File Handling 
+
 # Installation:
 
 1. Clone Respository
