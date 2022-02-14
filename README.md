@@ -31,8 +31,8 @@
 
 # Authors:
 
-**Nishant Badgujar (111903053)**
+* **Nishant Badgujar (111903053)**
 
-**Omkar Bankar (111903055)**
+* **Omkar Bankar (111903055)**
 
-**Pradip Jadhav (111903061)**
+* **Pradip Jadhav (111903061)**
